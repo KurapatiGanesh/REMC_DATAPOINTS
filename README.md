@@ -61,3 +61,14 @@ Downloadable REMC Datapoint File
 </ol>
 
 <hr>
+
+#Login Page
+![Project Output](Login_Page.png)
+#File Upload
+![Project Output](File_Upload.png)
+#File Upload History
+![Project Output](History.png)
+#Preview output Generate File
+![Project Output](Preview.png)
+#Output Generate Complete
+![Project Output](Output_generate.png)
